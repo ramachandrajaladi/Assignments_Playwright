@@ -38,4 +38,4 @@ const applicant: LoanApplicant = {
   debtToIncomeRatio: 35,
 };
 
-console.log(checkLoanEligibility(applicant));
+console.log(checkLoanEligibility(applicant)); 
